@@ -1,0 +1,27 @@
+.first{
+	font-size: 20px;
+}
+
+.fir{
+	font-size: 31px;
+}
+
+#contact{
+	background-color: black;
+	color: white;
+	height: 300px;
+}
+
+section.contact{
+	padding-top: 100px;
+	text-align: center;
+
+}
+
+#aboutus{
+	background: yellow;
+	height: 300px;
+}
+.section-heading{
+	padding-top: 20px;
+}
